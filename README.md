@@ -11,7 +11,7 @@ Time spent: 8 hours spent in total
 The following **required** functionality is completed:
 
 - [X] **Choose any endpoint on The MovieDB API except `now_playing`**
-  - Chosen Endpoint: now_playing
+  - Chosen Endpoint: movie/upcoming
 - [X] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
 - [X] **Use Glide to load and display at least one image per entry**
 - [X] **Click on an entry to view specific details about that entry using Intents**
@@ -45,7 +45,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Naomi Enogieru]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

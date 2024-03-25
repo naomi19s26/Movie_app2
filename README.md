@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 ![Movie App](https://github.com/naomi19s26/Movie_app2/blob/master/app.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Screen to Gif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
